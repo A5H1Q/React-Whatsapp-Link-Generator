@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Whatsapp-Link-Generator/static/css/main.b3ebb486.chunk.css",
+    "main.css": "/React-Whatsapp-Link-Generator/static/css/main.d9d5ccc5.chunk.css",
     "main.js": "/React-Whatsapp-Link-Generator/static/js/main.5d4e9243.chunk.js",
     "main.js.map": "/React-Whatsapp-Link-Generator/static/js/main.5d4e9243.chunk.js.map",
     "runtime-main.js": "/React-Whatsapp-Link-Generator/static/js/runtime-main.db372a86.js",
@@ -8,7 +8,7 @@
     "static/js/2.482d6427.chunk.js": "/React-Whatsapp-Link-Generator/static/js/2.482d6427.chunk.js",
     "static/js/2.482d6427.chunk.js.map": "/React-Whatsapp-Link-Generator/static/js/2.482d6427.chunk.js.map",
     "index.html": "/React-Whatsapp-Link-Generator/index.html",
-    "static/css/main.b3ebb486.chunk.css.map": "/React-Whatsapp-Link-Generator/static/css/main.b3ebb486.chunk.css.map",
+    "static/css/main.d9d5ccc5.chunk.css.map": "/React-Whatsapp-Link-Generator/static/css/main.d9d5ccc5.chunk.css.map",
     "static/js/2.482d6427.chunk.js.LICENSE.txt": "/React-Whatsapp-Link-Generator/static/js/2.482d6427.chunk.js.LICENSE.txt",
     "static/media/close.73391381.svg": "/React-Whatsapp-Link-Generator/static/media/close.73391381.svg",
     "static/media/help.4dcd846a.svg": "/React-Whatsapp-Link-Generator/static/media/help.4dcd846a.svg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.db372a86.js",
     "static/js/2.482d6427.chunk.js",
-    "static/css/main.b3ebb486.chunk.css",
+    "static/css/main.d9d5ccc5.chunk.css",
     "static/js/main.5d4e9243.chunk.js"
   ]
 }
