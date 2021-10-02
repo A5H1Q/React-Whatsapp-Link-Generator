@@ -244,6 +244,8 @@ select {
  margin-right: 6px;
  width: 65px;
  cursor: pointer;
+ background: #fff;
+ color: #000;
 }
 
 .Nbox input {
