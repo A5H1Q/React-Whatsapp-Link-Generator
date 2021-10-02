@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Whatsapp-Link-Generator/static/css/main.b3ebb486.chunk.css",
+    "main.js": "/React-Whatsapp-Link-Generator/static/js/main.5d4e9243.chunk.js",
+    "main.js.map": "/React-Whatsapp-Link-Generator/static/js/main.5d4e9243.chunk.js.map",
+    "runtime-main.js": "/React-Whatsapp-Link-Generator/static/js/runtime-main.db372a86.js",
+    "runtime-main.js.map": "/React-Whatsapp-Link-Generator/static/js/runtime-main.db372a86.js.map",
+    "static/js/2.482d6427.chunk.js": "/React-Whatsapp-Link-Generator/static/js/2.482d6427.chunk.js",
+    "static/js/2.482d6427.chunk.js.map": "/React-Whatsapp-Link-Generator/static/js/2.482d6427.chunk.js.map",
+    "index.html": "/React-Whatsapp-Link-Generator/index.html",
+    "static/css/main.b3ebb486.chunk.css.map": "/React-Whatsapp-Link-Generator/static/css/main.b3ebb486.chunk.css.map",
+    "static/js/2.482d6427.chunk.js.LICENSE.txt": "/React-Whatsapp-Link-Generator/static/js/2.482d6427.chunk.js.LICENSE.txt",
+    "static/media/close.73391381.svg": "/React-Whatsapp-Link-Generator/static/media/close.73391381.svg",
+    "static/media/help.4dcd846a.svg": "/React-Whatsapp-Link-Generator/static/media/help.4dcd846a.svg",
+    "static/media/info.90c1c04a.svg": "/React-Whatsapp-Link-Generator/static/media/info.90c1c04a.svg",
+    "static/media/plus.d69dd86f.svg": "/React-Whatsapp-Link-Generator/static/media/plus.d69dd86f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db372a86.js",
+    "static/js/2.482d6427.chunk.js",
+    "static/css/main.b3ebb486.chunk.css",
+    "static/js/main.5d4e9243.chunk.js"
+  ]
+}
